@@ -38,7 +38,7 @@ npm install
 
 4. Start the application
 ```
-npm run web
+npm run start
 ```
 
 5. Open the project with Expo Go
